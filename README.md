@@ -1,6 +1,6 @@
 # object_detection
 
-A new Flutter project.
+Version 1 of our project for IIT's grainger competition for 2022.
 
 ## Getting Started
 
